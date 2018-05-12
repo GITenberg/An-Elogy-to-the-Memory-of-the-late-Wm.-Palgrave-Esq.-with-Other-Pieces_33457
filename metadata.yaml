@@ -1,0 +1,26 @@
+_repo: An-Elogy-to-the-Memory-of-the-late-Wm.-Palgrave-Esq.-with-Other-Pieces_33457
+_version: 0.1.0
+alternative_title: An Elegy to the Memory of the late William Palgrave, Esquire, with
+  Other Pieces
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parkerson, James
+    gutenberg_agent_id: '35765'
+    url: http://www.gutenberg.org/2009/agents/35765
+description: ''
+gutenberg_issued: '2010-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Palgrave, William, 1745-1822 -- Poetry'
+title: An Elogy to the Memory of the late Wm. Palgrave, Esq., with Other Pieces
+url: http://www.gutenberg.org/ebooks/33457
